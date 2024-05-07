@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 4df80d913c6811b4e97250f650efaff1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ONOffBUttons_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1238
+        width: 1006
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa48a4600904f347a18c429ac8a905f
+      internalID: 771999738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ONOffBUttons_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 719
+        width: 1028
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 20, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a749593bb682a724f908c06b4e2e9fa9
+      internalID: -1688001738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b2b782f753b96ee4cbb6155abe5fd936
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ONOffBUttons_0: 771999738
+      ONOffBUttons_1: -1688001738
+      ONOffBUttons_10: -684671172
+      ONOffBUttons_11: 1243477052
+      ONOffBUttons_12: -1028236534
+      ONOffBUttons_13: -392168998
+      ONOffBUttons_14: 632284661
+      ONOffBUttons_15: -736533994
+      ONOffBUttons_16: -1274123163
+      ONOffBUttons_17: 1490387833
+      ONOffBUttons_18: -1016297885
+      ONOffBUttons_19: -385213685
+      ONOffBUttons_2: 337514753
+      ONOffBUttons_20: 987447674
+      ONOffBUttons_21: -1119498921
+      ONOffBUttons_22: 1716799118
+      ONOffBUttons_23: 1479167715
+      ONOffBUttons_24: 999850832
+      ONOffBUttons_25: 460925710
+      ONOffBUttons_26: -1211017014
+      ONOffBUttons_27: -42471500
+      ONOffBUttons_28: 241681403
+      ONOffBUttons_29: 1462268432
+      ONOffBUttons_3: -175812220
+      ONOffBUttons_30: 545032640
+      ONOffBUttons_31: -1458559730
+      ONOffBUttons_32: 401028838
+      ONOffBUttons_33: 1134703827
+      ONOffBUttons_34: 1354860023
+      ONOffBUttons_35: 212947281
+      ONOffBUttons_36: 1878929008
+      ONOffBUttons_37: 42377338
+      ONOffBUttons_38: 297315307
+      ONOffBUttons_39: -906251184
+      ONOffBUttons_4: 398568659
+      ONOffBUttons_40: -843005023
+      ONOffBUttons_41: -1309717637
+      ONOffBUttons_42: -96738011
+      ONOffBUttons_43: 249102954
+      ONOffBUttons_5: -1637443969
+      ONOffBUttons_6: -209129524
+      ONOffBUttons_7: 2012562380
+      ONOffBUttons_8: -92351006
+      ONOffBUttons_9: 675590050
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
