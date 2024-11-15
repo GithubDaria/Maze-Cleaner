@@ -27,9 +27,5 @@ Maze Cleaner is a puzzle game where players navigate through procedurally genera
 **Credits:**
 - 3D models: Free-for-use models that were modified and implemented into the game.
 
-**Future Plans:**
-- [Optional] Any upcoming updates or features you plan to add, such as new levels, better AI, or improved leaderboard functionality.
-
 ---
-
 Feel free to check out my other projects on GitHub!
