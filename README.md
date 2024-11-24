@@ -20,6 +20,7 @@ Maze Cleaner is a puzzle game where players navigate through procedurally genera
 
 **Links:**
 - [Google Play Store Link](https://play.google.com/store/apps/details?id=com.WhateverWorks.MazeCleaner)
+[![Watch Video](https://img.youtube.com/vi/83PASPusagU/0.jpg)](https://youtube.com/shorts/83PASPusagU?feature=share)
 
 **Platforms:**
 - Android
