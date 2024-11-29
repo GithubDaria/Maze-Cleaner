@@ -1,5 +1,7 @@
 # Maze Cleaner
-
+**Links:**
+- [Google Play Store Link](https://play.google.com/store/apps/details?id=com.WhateverWorks.MazeCleaner)
+[![Watch Video](https://img.youtube.com/vi/83PASPusagU/0.jpg)](https://youtube.com/shorts/83PASPusagU?feature=share)
 ![Gameplay Screenshot](assets/gameplay_image.png)
 ![Leaderboard Screenshot](assets/leaderboard_image.png)
 
@@ -18,9 +20,7 @@ Maze Cleaner is a puzzle game where players navigate through procedurally genera
 - Audacity for sound design
 - Free-to-use 3D models (modified for the game)
 
-**Links:**
-- [Google Play Store Link](https://play.google.com/store/apps/details?id=com.WhateverWorks.MazeCleaner)
-[![Watch Video](https://img.youtube.com/vi/83PASPusagU/0.jpg)](https://youtube.com/shorts/83PASPusagU?feature=share)
+
 
 **Platforms:**
 - Android
